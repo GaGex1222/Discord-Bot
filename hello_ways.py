@@ -1,0 +1,22 @@
+hello_ways = [
+    "Hey there!",
+    "Hi!",
+    "Hello!",
+    "Hey!",
+    "Hey, how's it going?",
+    "Hiya!",
+    "Hey, what's up?",
+    "Good morning!",
+    "Good afternoon!",
+    "Hey, howdy!",
+    "Hi there!",
+    "Hey, how are you?",
+    "Hey, nice to see you!",
+    "Hello, how are you doing?",
+    "Hey, what's happening?",
+    "Hi, how are things?",
+    "Hey, long time no see!",
+    "Hello, how have you been?",
+    "Hi, how's everything?",
+    "Hey, good to see you!"
+]
